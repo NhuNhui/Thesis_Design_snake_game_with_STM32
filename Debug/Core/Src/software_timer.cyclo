@@ -1,0 +1,6 @@
+../Core/Src/software_timer.c:21:6:timer_init	1
+../Core/Src/software_timer.c:26:6:timer_EnableDelayUs	1
+../Core/Src/software_timer.c:30:6:setTimer2	1
+../Core/Src/software_timer.c:36:6:setTimerSendSensor	1
+../Core/Src/software_timer.c:43:6:HAL_TIM_PeriodElapsedCallback	6
+../Core/Src/software_timer.c:65:6:delay_us	2
